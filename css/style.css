@@ -1,0 +1,102 @@
+@charset"utf-8";
+
+body {
+    font-size: 200%;
+    line-height: 1.5 ;
+    text-align: center;
+    background-image: url(../img/wood-texture_00033.jpg);
+}
+
+.contents {
+   
+    margin:0 auto 0 auto ;
+    width: 1300px;
+
+}
+
+
+nav ul{
+    height: 0px;
+}
+
+nav ul li {
+    list-style: none;
+    float: right;
+    border-bottom: solid 1px whitesmoke;
+    
+}
+
+nav ul li a img{
+    width: 130px;
+    
+    margin-right: 10px;
+    margin-top: 70px;
+    
+
+
+}
+.kankyou img {
+    float: left; 
+    margin: 50px 80px 50px 80px;   
+}
+.kankyou2 {
+    overflow: hidden;
+    background-image: url(../img/haikei01.png);
+    color: black;
+    text-align: left;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+
+.contents .rogo img {
+    width: 700px;
+    height: auto;
+    float: left;
+    margin-left: 20px;
+}
+
+#pegetop {
+    border-top: 2px solid wheat;
+}
+#qw{
+    width: 3000px;
+    text-align: center;
+}
+.tw {
+
+    
+    color: transparent;
+    width: 1300px;
+    margin-right: 500px;
+    margin-left: 350px;
+    
+}
+
+.yuuki {
+    font-weight: bold;
+    font-size: 70px;
+    background-image: url(../img/haikei02.png);
+}
+form {
+    height: 900px;
+    background-image: url(../img/haikei03.png);
+    font-weight: bold;
+    
+}
+textarea {
+        width: 420px;
+        height: 150px;
+        overflow-y: scroll;
+}
+
+input[type="text"] {
+    width: 150px;
+}
+form p {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
